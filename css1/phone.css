@@ -1,0 +1,50 @@
+#navbar{
+    flex-direction: column;
+}
+.contact{
+    height: 122px;
+}
+.contact::before{
+    height: 122px;
+}
+.navbar ul li a{
+    padding: 1px 2px;
+}
+#profile img {
+    width: 43px;
+    height: 51px;
+    position: absolute;
+    top: 14px;
+    right: 8px;
+}
+.name{
+    flex-direction: column;
+    margin: 2px 0px;
+}
+.name input{
+    margin: 2px 0px;
+}
+.info input{
+    margin: 2px 0px;
+}
+.place{
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 1px 0px;
+}
+.place input {
+    padding: 2px 0px;
+}
+.footerinfo {
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+#chickenpizza {
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.login{
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
